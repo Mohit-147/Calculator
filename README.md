@@ -37,6 +37,4 @@ def calculator():
             print("\nError: Division by zero is not allowed.")
     else:
         print("\nInvalid operation choice.")
-
-# Call calculator to run this program
 calculator()
